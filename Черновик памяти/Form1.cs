@@ -19,7 +19,7 @@ namespace Черновик_памяти
             InitializeComponent();
             this.SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.UserPaint | ControlStyles.DoubleBuffer, true);
             this.UpdateStyles();
-            //  Создаем экземпляр новой формы
+            // Создаем экземпляр новой формы
             Form2 f2 = new Form2();
 
             // Делаем её дочерней
